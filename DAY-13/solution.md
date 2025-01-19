@@ -66,13 +66,19 @@ docker rm redis-server yelb-db
 <img width="441" alt="image" src="https://github.com/user-attachments/assets/b39e26f2-c94a-4bf1-8294-ebb55fcfd7be" />
 
 
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/208c1c8b-7aaa-453a-86af-7c7f893eec96" />
 
 
 
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/90360cf7-bd86-4c23-adbd-6de29aa8c63c" />
+
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/93e5f2fb-bb95-4526-b1dc-942b073d3b53" />
 
 
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/63374846-d491-4485-9dc4-7933512c382f" />
 
-# Restart containers
+
+### 4. Restart containers
 
 ```bash
 docker run --name yelb-db \
@@ -92,6 +98,12 @@ docker run --name redis-server \
 
 
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/90360cf7-bd86-4c23-adbd-6de29aa8c63c" />
+
+
+### 5. Inspect Volume Usage
+
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/3785d814-aee7-49fa-bcf8-2b1681a1d34b" />
+
 
 
 ## ✅ Submission Requirements
